@@ -1,0 +1,26 @@
+.btn  {
+  
+  border-radius: 0px;
+  
+}
+
+.btn-shout {
+  
+  width: 300px;
+  margin: 20px 0px;
+  
+}
+
+.btn-info {
+  
+  border-width: 0px 1px 4px 1px;
+  border-bottom-color: darken($brand-info, 15%);
+  color: #000;
+  
+  &:hover {
+    
+    color: #000;
+    
+  }
+  
+}

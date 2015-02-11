@@ -1,0 +1,26 @@
+h1, h2, h3, h4, h5, h6 {
+  
+}
+
+p {
+  
+  font-family: $font-family-sans-serif;
+}
+
+body {
+  
+  font-family: $font-family-sans-serif;
+}
+
+
+// ------------- Specific
+
+.note-header {
+  
+  background-color: $brand-info;
+  padding: 15px;
+  margin-left: -20px;
+  max-width: 300px;
+  margin-top: 0px;
+  font-weight: 400;
+}
